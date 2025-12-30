@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "川の流れのように",
+  "base_artist": "美空ひばり",
+  "createdAt": "2025-12-30T16:18:53.266485Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "川の流れのように",
+      "artist": "美空ひばり",
+      "has_synced": true,
+      "path": "select/01_川の流れのように_美空ひばり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "川の流れのように",
+      "artist": "Hibari Misora",
+      "has_synced": true,
+      "path": "select/02_川の流れのように_Hibari_Misora.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "川の流れのように(像河之流動)",
+      "artist": "Teresa Teng",
+      "has_synced": false,
+      "path": "select/03_川の流れのように(像河之流動)_Teresa_Teng.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "川の流れのように",
+      "artist": "邓丽君",
+      "has_synced": false,
+      "path": "select/04_川の流れのように_邓丽君.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "川の流れのように",
+      "artist": "Hibari Misora",
+      "has_synced": true,
+      "path": "select/05_川の流れのように_Hibari_Misora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "川の流れのように",
+      "artist": "Hibari Misora",
+      "has_synced": false,
+      "path": "select/06_川の流れのように_Hibari_Misora.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "川の流れのように",
+      "artist": "美空 ひばり",
+      "has_synced": false,
+      "path": "select/pl_01_川の流れのように_美空_ひばり.txt"
+    }
+  ]
+}
